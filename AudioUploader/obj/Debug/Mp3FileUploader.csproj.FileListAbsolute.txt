@@ -1,0 +1,74 @@
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\ApplicationInsights.config
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\roslyn\csc.exe
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\roslyn\vbc.exe
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\roslyn\VBCSCompiler.exe
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Mp3FileUploader.dll.config
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Mp3FileUploader.dll
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Mp3FileUploader.pdb
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.AI.Web.dll
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.Data.Edm.dll
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.Data.OData.dll
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.AI.Web.xml
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\obj\Debug\Mp3FileUploader.dll
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\obj\Debug\Mp3FileUploader.pdb
+C:\Users\Overdrive\OneDrive\YEAR 4\Term 2\Cloud Platform Development\Coursework\Part A\Mp3FileUploader\Mp3FileUploader\obj\Debug\Mp3FileUploader.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\ApplicationInsights.config
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Mp3FileUploader.dll.config
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Mp3FileUploader.dll
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Mp3FileUploader.pdb
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.AI.Web.dll
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.Data.Edm.dll
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.Data.OData.dll
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.AI.Web.xml
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\obj\Debug\Mp3FileUploader.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\obj\Debug\Mp3FileUploader.dll
+C:\Users\Student\Desktop\cloud platform dev\Mp3FileUploader\Mp3FileUploader\obj\Debug\Mp3FileUploader.pdb
